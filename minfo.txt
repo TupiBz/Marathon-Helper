@@ -12,7 +12,7 @@
 >> /mann <ziua> - Informatii despre premiile si punctele necesare pe ziua X pe /hl.
 >> {66ccff}Exemplu: {afbdb3}/mann <1> | /mann <10> | /mann <20> etc.
 
->> {66ccff}Raspuns: {afbdb3}La ziua X a maratonului castigi Y la Standard, Z la PRO si trebuie facute W puncte.
+>> {66ccff}Raspuns: {afbdb3}La ziua X castigi Y la Standard, Z la PRO si ai nevoie de W puncte.
 
 {66ccff}Credits:{afbdb3}
 >> {66ccff}Gab & Flavia {afbdb3}for original mod concept.
