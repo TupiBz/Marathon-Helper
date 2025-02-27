@@ -1,4 +1,4 @@
-{66ccff}Durata: {afbdb3}1 Ianuarie - 2 Februarie.
+{66ccff}Durata: {afbdb3}1 Martie - 2 Aprilie.
 {66ccff}Preturi: {afbdb3}Skip: 100 Gold pe zi - Pro: 3600 Gold.
 {66ccff}Premii disponibile: {afbdb3}Un premiu pentru fiecare zi deblocata (doua la versiunea Pro).
 
@@ -17,5 +17,5 @@
 {66ccff}Credits:{afbdb3}
 >> {66ccff}Gab & Flavia {afbdb3}for original mod concept.
 >> {66ccff}Nic.eXe {afbdb3}for code.
->> {66ccff}Tupi {afbdb3}for editing mod at {66ccff}Season 36{afbdb3}.
+>> {66ccff}Tupi {afbdb3}for editing mod at {66ccff}Season 37{afbdb3}.
 >> Special thanks to {66ccff}Kelton {afbdb3}:)
