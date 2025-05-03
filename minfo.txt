@@ -1,5 +1,5 @@
 {66ccff}Durata: {afbdb3}1 Mai - 2 Iunie.
-{66ccff}Preturi: {afbdb3}Skip: 100 Gold pe zi - Pro: 4000 Gold.
+{66ccff}Preturi: {afbdb3}Skip: 150 Gold pe zi - Pro: 4000 Gold.
 {66ccff}Premii disponibile: {afbdb3}Un premiu pentru fiecare zi deblocata (doua la versiunea Pro).
 
 {66ccff}Comenzi disponibile:{afbdb3}
